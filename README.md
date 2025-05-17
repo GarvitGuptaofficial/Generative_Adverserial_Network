@@ -10,10 +10,8 @@
    - [Pix2Pix for Satellite to Map Transformation](#pix2pix-for-satellite-to-map-transformation)
    - [Old Photo Restoration using GFP-GAN](#old-photo-restoration-using-gfp-gan)
    - [Image Inpainting with BoundLess](#image-inpainting-with-boundless)
-5. [Demo](#demo)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+
+
 
 ## Introduction
 
