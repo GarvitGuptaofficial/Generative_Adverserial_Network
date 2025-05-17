@@ -212,6 +212,4 @@ _Figure 16: BoundLess image inpainting results. Left: Original image , Middle: M
 &nbsp;
 ![DCGAN Output](./Boundless/test3.jpeg) -->
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
